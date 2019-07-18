@@ -71,11 +71,12 @@ details {
     border: 5px solid #7f8c8d;
     border-radius: 4px;
     padding: .5em .5em 0;
+  margin-bottom:1em;
 }
 
 summary {
     font-weight: bold;
-    margin: -.5em -.5em 0;
+    
     padding: .5em;
 }
 summary h5 {

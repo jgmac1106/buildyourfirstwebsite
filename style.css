@@ -1,0 +1,95 @@
+/* CSS files add styling rules to your content */
+body {
+  margin: 40px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top center;
+  
+  font-size:18px;
+}
+h1 {
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  color:#3498db;
+  font-size:3em;
+  vertical-align:text-top;      
+}
+
+h2 {
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size:2em;
+   color:#7f8c8d;
+  vertical-align:text-top;      
+}  
+h4 {
+  color:#7f8c8d;
+}
+
+.wrapper {
+	width:90%;
+  
+	}
+.avatarIMG {
+  margin-top:5%;
+  max-width: 200px;
+  border-radius: 50%;
+}
+header {
+  text-align: center;
+}
+header p {
+  text-size: 2em;
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size:2em;
+   color:#8d877f;
+  text-align: left
+}
+
+.content {
+ font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  padding-right:10px;
+  padding-left:10px;      
+  color:#333;
+  font-size:1.25em;
+  vertical-align:text-top;
+}
+img {
+max-width:50%;
+margin-bottom:5%;
+margin-top:5%;}
+
+
+
+li {
+  line-height:1.4em;
+}
+code {
+  line-height: .5em;
+  margin-top:10px;
+}
+details {
+    border: 5px solid #7f8c8d;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+summary h5 {
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  color:#3498db;
+  font-size:1.25em;
+  vertical-align:text-top;   
+}
+
+details[open] {
+    padding: .5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .5em;
+}
